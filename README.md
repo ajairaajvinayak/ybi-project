@@ -1,2 +1,2 @@
-# ybi-project
-mileage prediction 
+# ybi-project Machine learning
+Mileage prediction - Regression Analysis
